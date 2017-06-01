@@ -1,6 +1,6 @@
 # Brazilian School Girls' Perspectives on a Computer Science Major: Mining Association Rules #
 
-Research done in the [http://ppca.unb.br/](Applied Computing) program of the [Department of Computer Science](http://www.cic.unb.br/) of the [University of Brasília](http://www.unb.br).
+Research done in the [Applied Computing](http://ppca.unb.br/) program of the [Department of Computer Science](http://www.cic.unb.br/) of the [University of Brasília](http://www.unb.br).
 
 ## Abstract ##
 
